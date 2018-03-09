@@ -6,6 +6,8 @@ A Docker Alpine Image with Python and Machine learning tools.
 - License: MIT
 - Version: 0.1
 
+[![Docker Stars](https://img.shields.io/docker/stars/fiercely/docker-python-machinelearning.svg)](https://hub.docker.com/r/fiercely/docker-python-machinelearning/)[![Docker Stars](https://img.shields.io/docker/pulls/fiercely/docker-python-machinelearning.svg)](https://hub.docker.com/r/fiercely/docker-python-machinelearning/)
+
 Information About this Docker Image
 -------------
 
